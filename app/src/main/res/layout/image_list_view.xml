@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="9dp">
+
+    <TextView android:id="@+id/namee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" hello world"
+        android:textColor="#424DDD"
+        />
+    <TextView android:id="@+id/proee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" hello world"
+        android:textColor="#000000"
+        />
+
+     <TextView android:id="@+id/pree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" hello world"
+        android:textColor="#FF44"
+        />
+    <TextView android:id="@+id/avee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" hello world"
+        android:textColor="#1FD444"
+        />
+
+</LinearLayout>
